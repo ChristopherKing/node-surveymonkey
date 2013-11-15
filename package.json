@@ -1,6 +1,6 @@
 {
   "name": "surveymonkey",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A node.js wrapper for the SurveyMonkey API.",
   "author": {
     "name": "Jeff Zabel",
@@ -11,7 +11,7 @@
   "main": "./lib/surveymonkey",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Datahero/surveymonkey.git"
+    "url": "https://github.com/ChristopherKing/node-surveymonkey.git"
   },
   "dependencies": {
     "request": "2.x.x"
