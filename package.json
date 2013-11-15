@@ -1,5 +1,5 @@
 {
-  "name": "surveymonkey",
+  "name": "surveymonkey-fields",
   "version": "0.0.5",
   "description": "A node.js wrapper for the SurveyMonkey API.",
   "author": {
